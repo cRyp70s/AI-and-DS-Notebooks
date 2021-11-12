@@ -2,3 +2,8 @@
 [Loan Status Prediction](https://www.kaggle.com/matthewwisdom/loan-prediction)  
 [Student Score Prediction](https://www.kaggle.com/matthewwisdom/student-score-prediction-eda)  
 [Disney Data EDA](https://www.kaggle.com/matthewwisdom/eda-on-disney-data)  
+[Breast Cancer Prediction](https://www.kaggle.com/matthewwisdom/breast-cancer-prediction)  
+[Stars Classification](https://www.kaggle.com/matthewwisdom/stars-classification)  
+[Disease Prediction](https://www.kaggle.com/matthewwisdom/disease-prediction)  
+[Loan Default Prediction](https://www.kaggle.com/matthewwisdom/loan-default-prediction-97-accuracy-99-recall)  
+[Heart Disease](https://www.kaggle.com/matthewwisdom/loan-default-prediction-97-accuracy-99-recall)
